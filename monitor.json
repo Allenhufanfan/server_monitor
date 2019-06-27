@@ -1,0 +1,30 @@
+{
+    "ips": [
+        {
+            "tag":1,
+            "iphost": "127.0.0.1",
+            "status": "",
+            "ports": [
+                {"port": 1433, "status":"" }
+            ]
+        },
+        {
+            "tag":2,
+            "iphost": "128.0.0.1",
+            "status": "",
+            "ports": [
+                {"port": 1433, "status":"" }
+            ]
+        },
+        {
+            "tag":3,
+            "iphost": "129.0.0.1",
+            "status": "",
+            "ports": [
+                {"port": 7801, "status":"" },
+                {"port": 1433, "status":"" },
+                {"port": 8309, "status":"" },
+            ]
+        }
+    ]
+}
